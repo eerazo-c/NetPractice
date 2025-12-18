@@ -59,4 +59,4 @@ AI was used as a learning support tool to:
 4. AI was not used to solve levels automatically, but as guidance to better
 understand the theory behind the configurations.
 
-`<This project is part of the learning path at 42 and aims to build a solid foundation in networking through hands-on practice.i >`
+`<This project is part of the learning path at 42 and aims to build a solid foundation in networking through hands-on practice>`
