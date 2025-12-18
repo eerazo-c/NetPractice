@@ -1,14 +1,16 @@
-NetPractice:
+`<NetPractice:>`
+
 This project has been created as part
 of the 42 curriculum by `<elerazo->`
 
-Description:
+`<Description:>`
+
 Fundamental concepts of computer networks, such as TCP/IP, IP addressing, subnet masks, and routing.
 The goal of this project is to learn how networks work by configuring different network scenarios level by level. 
 Through practical exercises, you discover how machines communicate, how IP addressing works, and how data travels across networks.
 This project is entirely practical and helps build intuition about networking concepts that are essential for any programmer.
 
-Instructions:
+`<Instructions>`
 
 #Running the training interface
 
@@ -29,7 +31,7 @@ Instructions:
 2. All 10 exported files must be placed at the root of the Git repository.
 3. No folders are required; the files must be directly in the repository root.
 
-<Resources>
+`<Resources >`
 
 #Networking concepts studied
 This project covers the following networking concepts:
