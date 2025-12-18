@@ -1,4 +1,4 @@
-`<NetPractice:>`
+`<NetPractice>`
 
 This project has been created as part
 of the 42 curriculum by `<elerazo->`
@@ -31,7 +31,7 @@ This project is entirely practical and helps build intuition about networking co
 2. All 10 exported files must be placed at the root of the Git repository.
 3. No folders are required; the files must be directly in the repository root.
 
-`<Resources >`
+`<Resources>`
 
 #Networking concepts studied
 This project covers the following networking concepts:
@@ -50,7 +50,8 @@ This project covers the following networking concepts:
 2. Basic networking tutorials
 3. Peer to per.
 
-<Use of AI>
+`<Use of AI >`
+
 AI was used as a learning support tool to:
 1. Clarify networking concepts in simple terms
 2. Help structure explanations and documentation
@@ -58,4 +59,4 @@ AI was used as a learning support tool to:
 4. AI was not used to solve levels automatically, but as guidance to better
 understand the theory behind the configurations.
 
-#This project is part of the learning path at 42 and aims to build a solid foundation in networking through hands-on practice.i#
+`<This project is part of the learning path at 42 and aims to build a solid foundation in networking through hands-on practice.i >`
